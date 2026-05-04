@@ -8,7 +8,7 @@ En un parque con dinosaurios, la seguridad es lo primero. Si podemos predecir un
 
 - **Decisión de negocio:** Optimizar la activación de protocolos de seguridad (cierre de sectores, refuerzo de vallas o sedación preventiva).
 
--  **Variable objetivo:** El objetivo es predecir la probabilidad de que un dinosaurio, en este caso, los velociraptores, ataque. Es una variable binaria donde 1 es "Intento de ataque detectado" y 0 es "Comportamiento normal".
+-  **Variable objetivo:** El objetivo es predecir la probabilidad de que un dinosaurio, en este caso, los velocirraptores, ataque. Es una variable binaria donde 1 es "Intento de ataque detectado" y 0 es "Comportamiento normal".
 
 2. **Horizonte temporal** ⏱️
 
