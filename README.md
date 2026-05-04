@@ -1,4 +1,4 @@
-## 🦖 Estrategia de ML en Jurassic Park: Predicción de Ataques de Velociráptores
+## 🦖 Estrategia de ML en Jurassic Park: Predicción de Ataques de Velocirráptores
 
 Este repositorio contiene la estrategia de Machine Learning diseñada para mejorar la seguridad operativa en Jurassic Park, resolviendo el reto planteado por Chiara en su sesión sobre el ciclo de vida de ML. 
 
